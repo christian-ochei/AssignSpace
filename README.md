@@ -4,6 +4,9 @@ AssignSpace is a small framework I built for plotting numeric objects in real ti
 
 Assign space is currently in development and does not have many functionalities.
 
+
+# 
+
 ### What you can do with AssignSpace Right now.
 
 #### You can Plot your model’s loss in realtime
@@ -37,4 +40,19 @@ Everything else gets taken care of in realtime.
 app.graph(numpy.random.uniform(0,20,100))
 
 ```
+
+#### Give it a try by running main.py
+
+```
+python main.py
+
+```
+
+
+
+### Contributions
+
+#### This project is very much open contributions. Feel free to report bugs.
+
+#
 
