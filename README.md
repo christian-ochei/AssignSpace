@@ -45,7 +45,6 @@ app.graph(numpy.random.uniform(0,20,100))
 
 ```
 python main.py
-
 ```
 
 
