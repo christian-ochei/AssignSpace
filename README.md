@@ -15,7 +15,7 @@ All you have to do is
 
 ```python
 
-Import assignspace
+import assignspace
 
 app = assignspace.AssignSpace()
 
